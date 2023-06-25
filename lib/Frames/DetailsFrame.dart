@@ -115,7 +115,7 @@ class _DetailsFrameState extends State<DetailsFrame> {
                               aspectRatio: 1,
                               child: Image.network(
                                 planet.images[index],
-                                fit: BoxFit.cover,
+                                fit: BoxFit.fill,
                               )),
                         );
                       }),
