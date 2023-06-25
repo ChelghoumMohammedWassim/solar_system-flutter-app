@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766399146946",
+    "project_id": "solar-system-700f3",
+    "storage_bucket": "solar-system-700f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766399146946:android:eaa2bab23bf50ae645c45b",
+        "android_client_info": {
+          "package_name": "com.example.solar_systemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766399146946-suef3nbdqe9t3kbtb6m1e1l9vvbirtal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgT9H3ZdqOukrylaY5OcURZMEsjfeyiWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766399146946-suef3nbdqe9t3kbtb6m1e1l9vvbirtal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

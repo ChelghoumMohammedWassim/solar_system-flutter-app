@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>766399146946-l9g7juftrqe6aigr8gq8rlji5rjdvqfq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.766399146946-l9g7juftrqe6aigr8gq8rlji5rjdvqfq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2IHvUTXEmz6LcIuX_EzTzQ7Hca7zxIOo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>766399146946</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.solarSystemapp</string>
+	<key>PROJECT_ID</key>
+	<string>solar-system-700f3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>solar-system-700f3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:766399146946:ios:c7b37f9c443bc46345c45b</string>
+</dict>
+</plist>
